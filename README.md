@@ -1,4 +1,4 @@
-# Challenge 1: The Kitchen Dish Pit - LIFO
+### Challenge 1: The Kitchen Dish Pit - LIFO
 
 # The Scenario: You are writing code for a robotic dishwasher at a busy restaurant. 
 # As waiters bring dirty plates back to the kitchen, they stack them on top of each other. 
@@ -10,7 +10,7 @@
 
 
 
-# Challenge 2: The DMV Waiting Line - FIFO
+### Challenge 2: The DMV Waiting Line - FIFO
 
 # The Scenario: You are writing the customer management software for the DMV. 
 # When citizens walk in, they take a paper number and wait in the seating area. 
@@ -22,7 +22,7 @@
 
 
 
-# Challenge 3: Music Playlist Search - Linked List (pointers)
+### Challenge 3: Music Playlist Search - Linked List (pointers)
 
 # The Scenario: You are building a music streaming app where user playlists are stored as a Linked List (where each song node points 
 # to the next song). 
